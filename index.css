@@ -1,0 +1,44 @@
+body{
+    background-color: gainsboro;
+}
+
+.h1body{
+    color: rgb(20, 49, 213);
+}
+
+.main{
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    margin: 35px auto;
+    padding: 30px 50px;
+    border: 2px solid transparent;
+}
+
+input{
+    height: 20px;
+    width: 95%;
+}
+
+label{
+    width: 60;
+}
+
+.sbmt{
+    width: 98%;
+    height: 30px;
+    color: #fff;
+    background-color: rgb(20, 49, 213);
+}
+
+.h1Name{
+    text-align: center;
+}
+
+img{
+    height: 80px;
+    width: 80px;
+    border-radius: 10%;
+    
+}
